@@ -6,3 +6,4 @@
 👩‍🦯 Me gustaría colaborar en proyectos para mejorar la accesibilidad para personas con discapacidad visual
 🌱 Necesito toda la ayuda posible para crecer en esta profesión
 💬 Pregúntame sobre Metodogías Ágiles y Programas para presentaciones
+
