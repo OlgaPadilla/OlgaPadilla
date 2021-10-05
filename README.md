@@ -1,7 +1,7 @@
 ### ¡Hola! Soy 👋
 <img src="https://user-images.githubusercontent.com/72191044/136032168-0ec89627-ce32-4fcc-895d-4b46df9c32b8.png">
 
-🦉He terminado un Bootcamp Inclusivo en Factoría F5 en Desarrollo Web y continuo mi autoformación a través de algunas plataformas como Platzi, Ed.team, Udemy, etc. ❤️ Apasionada del diseño UX / UI y Frontend, 👩‍🦯 me gustaría colaborar en proyectos para mejorar la accesibilidad para personas con discapacidad visual y necesito toda la ayuda posible para seguir 🌱 creciendo en esta profesión. 💬 Además podeís preguntarme sobre Metodogías Ágiles y Programas para presentaciones.
+🦉He terminado un Bootcamp Inclusivo en Factoría F5 en Desarrollo Web y continuo mi autoformación a través de algunas plataformas como Platzi, Ed.team, Udemy, etc. ❤️ Apasionada del diseño UX / UI y Frontend, 👩‍🦯 me gustaría colaborar en proyectos para mejorar la accesibilidad para personas con discapacidad visual y necesito toda la ayuda posible para seguir 🌱 creciendo en esta profesión.       💬 Además podeís preguntarme sobre Metodogías Ágiles y Programas para presentaciones.
 
 <div align="center">
   
