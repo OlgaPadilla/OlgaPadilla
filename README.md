@@ -1,8 +1,9 @@
-¡Hola! Soy  
+##¡Hola! Soy  
 <img src="https://user-images.githubusercontent.com/72191044/136032168-0ec89627-ce32-4fcc-895d-4b46df9c32b8.png">
-🦉 He continuado la autoformación tras finalizar un Bootcamp en Factoría F5 en Desarrollo Web.
-❤️ Me apasiona la UX / UI y el diseño Frontend
-👩‍🦯 Me gustaría colaborar en proyectos para mejorar la accesibilidad para personas con discapacidad visual
-🌱 Necesito toda la ayuda posible para crecer en esta profesión
-💬 Pregúntame sobre Metodogías Ágiles y Programas para presentaciones
+🦉Tras finalizar un Bootcamp en Factoría F5 en Desarrollo Web, he continuado mi autoformación. ❤️ Apasionada del diseño UX / UI y Frontend, 👩‍🦯 me gustaría colaborar en proyectos para mejorar la accesibilidad para personas con discapacidad visual y necesito toda la ayuda posible para seguir 🌱 creciendo en esta profesión. Podeís 💬 Preguntarme sobre Metodogías Ágiles y Programas para presentaciones.
 
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
