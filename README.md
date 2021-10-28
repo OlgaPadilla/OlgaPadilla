@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-Vue.js-success) ![](https://img.shields.io/badge/-PHP-inactive) ![](https://img.shields.io/badge/-Laravel-red) ![](https://img.shields.io/badge/-Symfony-blueviolet)
+![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-React-success) ![](https://img.shields.io/badge/-PHP-inactive) ![](https://img.shields.io/badge/-Laravel-red) ![](https://img.shields.io/badge/-Symfony-blueviolet)
 
 </div>
   
